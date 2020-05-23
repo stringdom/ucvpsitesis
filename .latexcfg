@@ -1,0 +1,4 @@
+{
+  "root" : "D:\Stringdom\Documents\Development\ucvpsitesis\example.tex",
+  "toolchain" : "xetex %ARG %DOC",
+}
