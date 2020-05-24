@@ -1,4 +1,4 @@
 {
-  "root" : "D:\Stringdom\Documents\Development\ucvpsitesis\example.tex",
-  "toolchain" : "xetex %ARG %DOC",
+  "root" : "minimum working example.tex",
+  "toolchain" : "xelatex %ARG %DOC && xelatex %ARG %DOC"
 }
