@@ -1,4 +1,4 @@
 {
-  "root" : "minimum working example.tex",
+  "root" : "MWExample.tex",
   "toolchain" : "xelatex %ARG %DOC && xelatex %ARG %DOC"
 }
